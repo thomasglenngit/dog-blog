@@ -1,0 +1,17 @@
+h1 {
+  font: arial;
+  text-align: center;
+  color: firebrick;
+}
+
+img {
+  border-image: black;
+  
+}
+
+body {
+  font: Arial;
+  background-color: lightcoral;
+  background: url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
+  
+}
