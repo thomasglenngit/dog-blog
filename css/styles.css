@@ -6,8 +6,17 @@ h1 {
   color: blue;
 }
 
-body {
-  font: Arial;
-  background-color: lightcoral;
-  
+
+body.white-background {
+  color: black;
+  background-color: white;
+}
+
+body.black-background {
+  color: white;
+  background-color: black;
+}
+
+button {
+  color: rgb(189, 27, 27);
 }
