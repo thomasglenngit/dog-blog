@@ -17,6 +17,9 @@ body.black-background {
   background-color: black;
 }
 
-button {
+button.btn {
+  margin: 3px;
+  border: 3px solid black;
+  padding: 2px;
   color: rgb(189, 27, 27);
 }
